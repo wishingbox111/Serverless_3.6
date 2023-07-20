@@ -14,7 +14,7 @@ Provision:
 
 1. Create a new repository with the following name conventions:
 `serverless-app-` or any other names.
-2. Create a new serverless application and push all the code in the new repository you created.
+2. Create a new serverless application and push all the code in the new repository you created. (note that lambda application is a group of lambda functions, and we've deployed functions, hence we consider the same for this assignment. Application might be able to have more functions like add a prefix to the group of lambda names....)
 3. You can create any serverless code example or default code example.
 4. Dont forget change the name in the `readme.md` if necessary
 5. Make sure the repository is publicly accessible.
