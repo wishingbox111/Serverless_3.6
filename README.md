@@ -2,9 +2,8 @@
 Amazon API gateway and Lambda
 
 
-Assignments for 3.6:
+## Assignment for 3.6
 
-## Assignment
 
 ### Brief
 
